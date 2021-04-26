@@ -58,12 +58,12 @@ class AddAttendanceRecord extends Component {
 
 
         //DOES NOT WORK
-        lat = 33.75609609410136
-        lon = -84.3891822407182
+        //lat = 33.75609609410136
+        //lon = -84.3891822407182
 
         //WORKS
-        // lat = 33.75618414926428
-        // lon = -84.38937045787564
+        lat = 33.75618414926428
+        lon = -84.38937045787564
 
         //props.checkIn(state)
 
